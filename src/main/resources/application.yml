@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: csv-data-reader
+server:
+  port: 8083
